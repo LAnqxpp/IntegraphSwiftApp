@@ -46,12 +46,15 @@ a:hover { text-decoration: underline; }
   font-weight: 700;
   text-decoration: none;
 }
-.brand-mark {
-  width: 28px;
-  height: 28px;
-  border-radius: 6px;
-  background: linear-gradient(90deg, var(--red) 50%, var(--blue) 50%);
+.brand:hover { text-decoration: none; }
+.brand-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
   flex-shrink: 0;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06);
 }
 .nav {
   display: flex;
