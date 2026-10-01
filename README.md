@@ -19,17 +19,16 @@ python3 -m http.server 8080
 
 浏览器打开：http://127.0.0.1:8080/
 
-## 部署示例（GitHub Pages）
+## 已部署地址
 
-1. 新建公开仓库，例如 `zhuoqiu-jifenqi-site`
-2. 将本目录下全部文件推送到仓库根目录（或 `docs/`）
-3. 仓库 Settings → Pages → 启用 GitHub Pages
-4. 得到类似地址：
-   - 技术支持：`https://你的用户名.github.io/zhuoqiu-jifenqi-site/`
-   - 隐私政策：`https://你的用户名.github.io/zhuoqiu-jifenqi-site/privacy.html`
-   - 用户协议：`https://你的用户名.github.io/zhuoqiu-jifenqi-site/terms.html`
+仓库：[LAnqxpp/IntegraphSwiftApp](https://github.com/LAnqxpp/IntegraphSwiftApp.git)
 
-## 上架前请修改
+| 用途 | URL | App Store Connect |
+|------|-----|-------------------|
+| 技术支持 | https://lanqxpp.github.io/IntegraphSwiftApp/ | Support URL |
+| 隐私政策 | https://lanqxpp.github.io/IntegraphSwiftApp/privacy.html | Privacy Policy URL |
+| 用户协议 | https://lanqxpp.github.io/IntegraphSwiftApp/terms.html | 可选 |
 
-- 把 `support@zmkjchat.com` 换成你真实可用的支持邮箱（三个 HTML 均需改）
-- 确认域名可公网 HTTPS 访问后再填入 App Store Connect
+## 联系邮箱
+
+技术支持邮箱：`azir_likes@126.com`（已写入三个 HTML 页面）
